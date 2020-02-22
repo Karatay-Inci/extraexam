@@ -13,5 +13,7 @@ public class A6Math {
         z--;    //z -= 1;   z=5
         System.out.println(x);
         System.out.println("z =");
+
+
     }
 }

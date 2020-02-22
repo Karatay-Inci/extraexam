@@ -8,7 +8,7 @@ public class A5StringLongMath {
                 "easy";
         System.out.println(a);
 
-        String b = " Java \t Program \n is very \n easy";
+        String b = " Java \t \t \t\tProgram \n is very \n easy";
         System.out.println(b);
 
         System.out.println(3 + 4.2);

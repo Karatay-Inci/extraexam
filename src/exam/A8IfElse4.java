@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class A8IfElse4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Please write your note:");
+        System.out.println("Please enter your note:");
         int note = scanner.nextInt();
 
         if (note >=90){

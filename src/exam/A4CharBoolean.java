@@ -14,8 +14,10 @@ public class A4CharBoolean {
 
         boolean x = true;
         boolean y = false;
-        System.out.println("x+y");
+        System.out.println("x+y: " + x+ y);
 
+        System.out.println(3!=4);
+        System.out.println(2>=9);
 
 
 
