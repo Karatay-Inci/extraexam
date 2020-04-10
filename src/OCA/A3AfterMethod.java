@@ -1,5 +1,6 @@
 package OCA;
-
+//import package.name.Class;   // Import a single class
+//import package.name.*;   // Import the whole package
 public class A3AfterMethod {
     public static void main(String[] args) {
         printDistricts(5,"Austin");
