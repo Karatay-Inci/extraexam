@@ -9,7 +9,7 @@ public class Person {
     public String getName(){
         return this.name;
     }
-    public void speak(){
+    public void speak(){    //--->Overriding (doctor class)---> This symbol is blue dot and red down arrow
         System.out.println("Person speaking");
     }
 

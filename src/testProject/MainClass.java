@@ -9,9 +9,11 @@ public class MainClass {
         Person diana = new Doctor("diana","pediatric");
         Doctor ana =new Doctor("ana","eye");
 
-        joe.speak();
-        diana.speak();
-        ana.speak();
+        //joe.speak();
+        //diana.speak();
+        //ana.speak();
+
+        System.out.println(ana);
 
 
     }
